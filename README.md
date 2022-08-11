@@ -1,0 +1,1 @@
+# DI-singleton-scoped-transient-MVC
